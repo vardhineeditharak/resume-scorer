@@ -1,0 +1,7 @@
+.env
+.venv
+.vscode
+.agents
+__pycache__
+cache
+memory.md
